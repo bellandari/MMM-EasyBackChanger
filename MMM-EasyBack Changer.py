@@ -1,9 +1,7 @@
 # This is a Python bot that will change MagicMirror's config.js file at a given interval. 
 # I use this to change the video that is played by MMM-EasyBack: https://github.com/mykle1/MMM-EasyBack
-# This is also used in conjunction with MMM-AutoRefresh: https://github.com/jasonyork/MMM-auto-refresh
-# as MagicMirror won't update by itself. 
-
-# This module runs in the background on the pi and uses very little resources.
+# This is also used in conjunction with MMM-AutoRefresh: https://github.com/jasonyork/MMM-auto-refresh as MagicMirror won't update by itself. 
+# This module runs in the background on the Pi and uses very little resources.
 # I've been using it for about a week and have had no issues as of yet. 
 
 # Needed modules
